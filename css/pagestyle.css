@@ -1,0 +1,94 @@
+/* custom css */
+
+#info {
+	background-color: #f2f2f2;
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	border: 1px solid #aaa;
+	width:500px;
+	padding: 5px 5px 5px 20px;
+	border-radius: 6px;
+	margin-top: 15px;
+}
+
+.tablecss {
+	/*border:1px solid black;
+	border-radius:5px;*/
+}
+
+#infoedit {
+	background-color: #f2f2f2;
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	border: 1px solid #aaa;
+	width:500px;
+	padding: 15px 5px 15px 20px;
+	border-radius: 6px;
+	margin-top: 15px;
+}
+
+#content-tmce {
+	display:none;
+}
+
+#success {
+	background-color: #efffb9;
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.8) inset, 0 -2px 2px #e2f897 inset;
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.8) inset, 0 -2px 2px #e2f897 inset;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.8) inset, 0 -2px 2px #e2f897 inset;
+	border: 1px solid #99c600;
+	width:500px;
+	padding: 15px 5px 15px 20px;
+	border-radius: 6px;
+	margin-top: 15px;
+	margin-bottom: 12px;
+}
+
+
+#information {
+	background-color: #d0e4f4;
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #bbd9f1 inset;
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #bbd9f1 inset;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #bbd9f1 inset;
+	border: 1px solid #4d8fcb;
+	width:500px;
+	padding: 15px 5px 15px 20px;
+	border-radius: 6px;
+	margin-top: 15px;
+	margin-bottom: 12px;
+}
+
+.pageeditbutton {
+	display: block;
+	width: 75px;
+	height: 25px;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
+
+#infohomepageedit {
+	background-color: #f2f2f2;
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 2px 1px rgba(255, 255, 255, 0.5) inset, 0 -2px 2px #ddd inset;
+	border: 1px solid #aaa;
+	width: 97%;
+	padding: 15px 5px 15px 20px;
+	border-radius: 6px;
+	margin-top: 15px;
+}
