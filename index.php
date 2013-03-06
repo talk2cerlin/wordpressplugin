@@ -11,7 +11,7 @@ Version: 1.0
 function pageid()
 {
 	cssimport();
-	echo '<div id="infohomepageedit" >Here we can echo the details of the plugin..</div>';
+	echo '<div id="infohomepageedit" >This plugin is to allow one/many user/users to edit particular page/pages.</div>';
 }
 
 function menu_re_pageedit()
